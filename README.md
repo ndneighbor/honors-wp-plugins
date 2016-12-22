@@ -7,3 +7,9 @@ Pretty simple
 ##Install Instructions
 
 To install, go to WP admin and load the .zip file downloaded from GitHub
+
+
+### Planned Features
+
+.csv sanitization
+build tools and testing
